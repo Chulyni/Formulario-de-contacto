@@ -5,6 +5,7 @@
 body {
   font-family: "Karla", sans-serif;
   font-weight: 400;
+  background-color: hsl(148, 38%, 91%);
 }
 
 h1 {
