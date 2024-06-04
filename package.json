@@ -1,9 +1,9 @@
 {
   "name": "form-react",
-  "private": "false",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://Chulyni.github.io/Formulario-de-contacto",
+  "homepage": "https://Chulyni.github.io/Formulario-de-contacto",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
