@@ -1,6 +1,6 @@
 {
   "name": "form-react",
-  "private": true,
+  "private": "false",
   "version": "0.0.0",
   "type": "module",
   "homepage": "http://Chulyni.github.io/Formulario-de-contacto",
